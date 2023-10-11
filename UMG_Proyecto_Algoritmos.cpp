@@ -1,8 +1,7 @@
-#Include <iostream>
-
+#include<iostream>
 using namespace std;
+int main(){
 
-main(){
-
-    cout<<"Proyecto";
+    cout<<"Proyecto"<<endl;
+    cout<<"Hola Mundo"<<endl;
 }
